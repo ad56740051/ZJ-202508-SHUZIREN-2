@@ -1,0 +1,15 @@
+[  
+  {  
+    "imgpath": "video/chuner-stop-2",  
+    "audiopath": "silence.wav",  
+    "audiotype": 1,  
+    "loop": true  
+  },
+  {  
+    "audiotype": 2,  
+    "imgpath": "video/pipa-yanzou",  
+    "audiopath":"video/pipa.wav",  
+    "loop": false  
+  }
+ 
+]
